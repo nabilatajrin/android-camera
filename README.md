@@ -1,5 +1,5 @@
 # android-camera
-These are the following two ways, in which we can use camera in our application
+This repository contains an android application to capture photo/ video using camera. There are the following two ways, in which we can use camera in our application
 
     1. Using existing android camera application in our application
     2. Directly using Camera API provided by android in our application
