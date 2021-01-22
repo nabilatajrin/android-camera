@@ -1,7 +1,6 @@
 package bd.org.rain.camera;
 
 import org.junit.Test;
-
 import static org.junit.Assert.*;
 
 /**
